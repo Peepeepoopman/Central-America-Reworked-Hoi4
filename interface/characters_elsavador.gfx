@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_portrait_ELS_maximiliano_hernandez_martinez_large"
+		texturefile = "gfx/leaders/ELS/portrait_large_maximiliano_hernandez_martinez_large.dds"
+	}
+}
